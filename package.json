@@ -31,22 +31,22 @@
   "homepage": "https://github.com/jacklam718/react-native-popup-dialog/blob/master/README.md",
   "dependencies": {
     "babel-preset-es2016": "^6.24.1",
-    "babel-preset-react-native": "^3.0.1",
-    "prop-types": "^15.5.10",
-    "react-native-popup-dialog": "^0.9.35",
-    "react-native-root-siblings": "^2.0.0"
+    "babel-preset-react-native": "^4.0.1",
+    "prop-types": "^15.7.2",
+    "react-native-popup-dialog": "^0.18.3",
+    "react-native-root-siblings": "^4.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "babel-plugin-flow-react-proptypes": "^5.1.1",
-    "eslint": "^4.5.0",
-    "eslint-config-airbnb": "^15.1.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.3.0",
-    "flow-bin": "^0.53.1",
-    "react": "^15.6.1",
-    "react-native": "^0.47.2",
-    "rimraf": "^2.6.1"
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-flow-react-proptypes": "^26.0.0",
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "flow-bin": "^0.142.0",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "rimraf": "^3.0.2"
   }
 }
