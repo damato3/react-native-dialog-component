@@ -99,6 +99,7 @@ class DialogComponent extends Component {
         onShown={this.props.onShown}
         onDismissed={this.props.onDismissed}
         actions={this.props.actions}
+        useNativeDriver={this.props.useNativeDriver}
       >
         {title}
         {children}
