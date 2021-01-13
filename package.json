@@ -33,7 +33,7 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-react-native": "^4.0.1",
     "prop-types": "^15.7.2",
-    "react-native-popup-dialog": "^0.15.1",
+    "react-native-popup-dialog": "https://github.com/damato3/react-native-modals.git#45179fea2b1a63a45a91f83c4a6654271cdb375e",
     "react-native-root-siblings": "^4.1.0"
   },
   "devDependencies": {
