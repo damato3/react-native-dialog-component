@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacklam718/react-native-popup-dialog.git"
+    "url": "https://github.com/damato3/react-native-modals.git"
   },
   "keywords": [
     "dialog",
@@ -33,7 +33,7 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-react-native": "^4.0.1",
     "prop-types": "^15.7.2",
-    "react-native-popup-dialog": "https://github.com/damato3/react-native-modals.git#61b5d1733367344096d7236cccf3f2fbc02afe61",
+    "react-native-popup-dialog": "https://github.com/damato3/react-native-modals.git#2dddd4f28328fa8050d41e632ac5ce235432efc5",
     "react-native-root-siblings": "^4.1.0"
   },
   "devDependencies": {
